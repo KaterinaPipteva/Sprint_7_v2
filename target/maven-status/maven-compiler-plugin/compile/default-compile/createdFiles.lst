@@ -1,0 +1,9 @@
+com/example/Order.class
+com/example/CourierGenerator.class
+com/example/OrderGenerator.class
+com/example/RestClient.class
+com/example/OrderClient.class
+com/example/ErrorTexts.class
+com/example/Courier.class
+com/example/CourierClient.class
+com/example/CourierCredentials.class
